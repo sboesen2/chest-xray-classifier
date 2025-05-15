@@ -75,13 +75,17 @@ The application will be available at `http://localhost:8501`
   - Best performing class: Cardiomegaly (AUC = 0.8760)
   - Used for comparison purposes
 
+## Acknowledgments
+
+This project was made possible through the use of Arizona State University's Sol HPC supercomputer. The computational resources provided by ASU's Research Computing were essential for training and evaluating the deep learning models used in this application. Special thanks to the ASU Research Computing team for their support and infrastructure.
+
 ## Created by
 
 Sam Boesen
 
 ## License
 
-[Your chosen license]
+Idgaf about no license open source biology is king
 
 ## Disclaimer
 
